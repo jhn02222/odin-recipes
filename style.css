@@ -9,3 +9,25 @@ h1 {
     font-size: 30px;
     font-weight: bold;
 }
+
+.page2-container{
+    background: white;
+    border: 5px solid lightblue;
+    margin: 8px auto;
+}
+
+.description-container{
+    border: 5px solid lightblue;
+    margin: 8px;
+}
+
+.ingredients-container{
+    border: 5px solid lightblue;
+    margin: 8px;
+}
+
+.steps-container{
+    border: 5px solid lightblue;
+    margin: 8px;
+}
+
